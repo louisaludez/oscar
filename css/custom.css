@@ -1,0 +1,27 @@
+
+.section-skills {
+
+    margin-top: 200px;
+}
+.progress {
+    width: 100%;
+    background-color: #b6afaf;
+    border-radius: 13px;
+    overflow: hidden;
+    margin: 20px 0;
+    height: 20px;
+}
+.progress-bar {
+    width: 0;
+    height: 100%;
+    background-color: #0e130e;
+    border-radius: 13px;
+    text-align: center;
+    line-height: 30px;
+    color: white;
+    transition: width 0.5s;
+}
+.footer-distributed{
+    display: flex;
+    justify-content: center;
+}
